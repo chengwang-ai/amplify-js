@@ -41,3 +41,5 @@ xcuserdata/
 coverage/
 coverage-native/
 coverage-ts/
+.tool-versions
+amplify-js.iml

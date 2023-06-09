@@ -1,4 +1,4 @@
-import 'isomorphic-unfetch';
+const fetch = require('fetch-with-proxy').default;
 
 import UserAgent from './UserAgent';
 
